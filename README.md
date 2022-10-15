@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page!<br>I'm Patrick, IT-Student from Germany and currently working on<br>expanding my skills in different categories.
+Welcome to my page!<br>I'm Patrick, a 21 year old IT-Student from Germany and currently working on<br>expanding my skills in different categories.
 
 
 ## 🌐 Socials:
