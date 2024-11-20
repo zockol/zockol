@@ -1,7 +1,3 @@
-# 💫 About Me:
-Welcome to my page!<br>I'm Patrick, a 22 year old IT-Student from Germany and currently working on<br>expanding my skills in different categories.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/264193309721755648) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-zockol-687204253)
 
